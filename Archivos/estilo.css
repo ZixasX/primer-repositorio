@@ -110,7 +110,7 @@ footer a {
     margin: 0 10px;
 }
 
-/* Responsivo para dispositivos pequeños (celulares) */
+/* Responsivo para celulares */
 @media (max-width: 480px) {
     nav ul {
         display: flex;
@@ -138,7 +138,7 @@ footer a {
     }
 }
 
-/* Responsivo para pantallas de mayor tamaño (PC) */
+/* Responsivo para computador (PC) */
 @media (min-width: 1368px) {
     body {
         font-size: 18px;
